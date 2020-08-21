@@ -53,7 +53,7 @@ def game_hash
           :slam_dunks => 1
         }
       ]
-    }
+    },
     
     :away => {
       :team_name => ,
@@ -72,5 +72,6 @@ def game_hash
         }
   
       ]
+    }
   }
 end
